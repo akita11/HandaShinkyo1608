@@ -2,7 +2,7 @@
 
 <img src="https://github.com/akita11/HandaShinkyo1608/blob/main/HandaShinkyo1608.jpg" width="240px">
 
-Ken Nakagakiさん(@ken0324)さんの[半田心教](https://x.com/i/events/1101723254899834880)を参考に、はんだ付けのしやすい1608サイズ（ミリ表記で0603サイズ）のチップ抵抗を使った半田心教基板です。部品リストとPCBA用の部品位置ファイルもあり、そのまま[JLCPCB](https://www.jlcpcb.com)にPCBA発注することもできます（チート）。
+Ken Nakagakiさん(@ken0324)さんの[半田心教](https://x.com/i/events/1101723254899834880)を参考に、はんだ付けのしやすい1608サイズ（インチ表記で0603サイズ）のチップ抵抗を使った半田心教基板です。部品リストとPCBA用の部品位置ファイルもあり、そのまま[JLCPCB](https://www.jlcpcb.com)にPCBA発注することもできます（チート）。
 
 給電は、裏面のボタン電池(CR2032)または基板パターンを使ったUSB Type-Cで行います。
 
